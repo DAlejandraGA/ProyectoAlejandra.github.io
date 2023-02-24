@@ -1,0 +1,40 @@
+{
+  "squadName" : "alejandra gonzalez",
+  "Ciudad" : "bogota",
+  "Año" : 2023,
+  "secretBase" : "super tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "american chávez",
+      "edad" : 29,
+      "secretIdentity" : "miss américa",
+      "powers" : [
+        "teletransporte",
+        "fuerza",
+        "resistencia"
+        
+      ]
+    },
+    {
+      "name" : "bruja escarlata",
+      "age" : 34,
+      "secretIdentity" : "wanda maximoff",
+      "powers" : [
+        "magia del caos",
+        "hechizos simples"
+      ]
+    },
+    {
+      "name" : "wade winston",
+      "age" : 32,
+      "secretIdentity" : "deadpool",
+      "powers" : [
+        "factor curativo acelerado",
+        "fuerza",
+        "resistencia y agilidad super humano"
+        
+      ]
+    }
+  ]
+}
