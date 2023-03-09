@@ -22,7 +22,11 @@ h1 {
   text-align: center;
   
 }
+a  { 
+  font-size: large;
+  background-color: beige;
 
+}
 header p {
   font-size: 1.3rem;
   font-weight: bold;
